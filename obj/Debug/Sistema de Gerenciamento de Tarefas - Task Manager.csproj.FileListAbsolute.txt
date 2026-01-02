@@ -1,0 +1,11 @@
+C:\Users\lucas\source\repos\Sistema de Gerenciamento de Tarefas - Task Manager\Sistema de Gerenciamento de Tarefas - Task Manager\bin\Debug\Sistema de Gerenciamento de Tarefas - Task Manager.exe.config
+C:\Users\lucas\source\repos\Sistema de Gerenciamento de Tarefas - Task Manager\Sistema de Gerenciamento de Tarefas - Task Manager\bin\Debug\Sistema de Gerenciamento de Tarefas - Task Manager.exe
+C:\Users\lucas\source\repos\Sistema de Gerenciamento de Tarefas - Task Manager\Sistema de Gerenciamento de Tarefas - Task Manager\bin\Debug\Sistema de Gerenciamento de Tarefas - Task Manager.pdb
+C:\Users\lucas\source\repos\Sistema de Gerenciamento de Tarefas - Task Manager\Sistema de Gerenciamento de Tarefas - Task Manager\obj\Debug\Sistema de Gerenciamento de Tarefas - Task Manager.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Sistema de Gerenciamento de Tarefas - Task Manager\Sistema de Gerenciamento de Tarefas - Task Manager\obj\Debug\Sistema_de_Gerenciamento_de_Tarefas___Task_Manager.Form1.resources
+C:\Users\lucas\source\repos\Sistema de Gerenciamento de Tarefas - Task Manager\Sistema de Gerenciamento de Tarefas - Task Manager\obj\Debug\Sistema_de_Gerenciamento_de_Tarefas___Task_Manager.Form2.resources
+C:\Users\lucas\source\repos\Sistema de Gerenciamento de Tarefas - Task Manager\Sistema de Gerenciamento de Tarefas - Task Manager\obj\Debug\Sistema_de_Gerenciamento_de_Tarefas___Task_Manager.Properties.Resources.resources
+C:\Users\lucas\source\repos\Sistema de Gerenciamento de Tarefas - Task Manager\Sistema de Gerenciamento de Tarefas - Task Manager\obj\Debug\Sistema de Gerenciamento de Tarefas - Task Manager.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Sistema de Gerenciamento de Tarefas - Task Manager\Sistema de Gerenciamento de Tarefas - Task Manager\obj\Debug\Sistema de Gerenciamento de Tarefas - Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Sistema de Gerenciamento de Tarefas - Task Manager\Sistema de Gerenciamento de Tarefas - Task Manager\obj\Debug\Sistema de Gerenciamento de Tarefas - Task Manager.exe
+C:\Users\lucas\source\repos\Sistema de Gerenciamento de Tarefas - Task Manager\Sistema de Gerenciamento de Tarefas - Task Manager\obj\Debug\Sistema de Gerenciamento de Tarefas - Task Manager.pdb
